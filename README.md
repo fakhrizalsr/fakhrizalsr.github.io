@@ -1,4 +1,4 @@
 # fakhrizalsr.github.io
 Just a personal website
 
-This is development branch there are still a lot of things to change here. Soon it will be merge to main branch
+This is a development branch. There is still a lot of things to change here, and it will be merge into the main branch once it was good enough
